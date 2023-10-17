@@ -71,7 +71,7 @@ export default function Profile() {
           
         <input type="text" placeholder='username' id="username" className="border p-3 rounded-lg"/>
         <input type="email" placeholder='email' id="email" className="border p-3 rounded-lg"/>
-        <input type="text" placeholder='password' id="password" className="border p-3 rounded-lg"/>
+        <input type="password" placeholder='password' id="password" className="border p-3 rounded-lg"/>
         <button className="bg-slate-700 text-white rounded-lg p-3 uppercase hover:opacity-70 
         disabled: opacity-80">Update</button>
       </form>
